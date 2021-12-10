@@ -1,0 +1,9 @@
+﻿  Final.cpp
+C:\Users\hdLis\OneDrive\Documentos\ProyectoL\ProyectoL\Final.cpp(403,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\hdLis\OneDrive\Documentos\ProyectoL\ProyectoL\Final.cpp(774,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\hdLis\OneDrive\Documentos\ProyectoL\ProyectoL\Final.cpp(775,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\hdLis\OneDrive\Documentos\ProyectoL\ProyectoL\Final.cpp(779,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\hdLis\OneDrive\Documentos\ProyectoL\ProyectoL\Final.cpp(780,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\hdLis\OneDrive\Documentos\ProyectoL\ProyectoL\Final.cpp(782,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\hdLis\OneDrive\Documentos\ProyectoL\ProyectoL\Final.cpp(783,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  ProyectoL.vcxproj -> C:\Users\hdLis\OneDrive\Documentos\ProyectoL\Debug\ProyectoL.exe
